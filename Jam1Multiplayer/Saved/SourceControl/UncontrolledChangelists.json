@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/IvanGamemode.uasset",
+				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/BP_TestCharacter.uasset",
+				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/IvanTestingMap.umap",
+				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/BP_Cube.uasset",
+				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/BP_EnemySpawner.uasset",
 				"D:/veloc/UNIAT/Semestre 6-Mar24-Jun24/Multijugador/Jam1Multiplayer2024/Jam1Multiplayer/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
