@@ -8,6 +8,18 @@
 				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Test-IAliados.umap",
 				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/_BP_SpotLightSpaces.uasset",
 				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/_BP_Pointview.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/BP_Enemy.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/AI_Animations/WalkBlendSpace1D.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/AI_Animations/WalkBlend.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/AI_Animations/ABP_Enemy.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/Tasks/BTTask_GoLight.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/BP_AIController.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/Tasks/BTTask_ChacePlayer.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/BY_AI.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/Tasks/BTTask_Attack.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/BB_AI.uasset",
 				"D:/veloc/UNIAT/Semestre 6-Mar24-Jun24/Multijugador/Jam1Multiplayer2024/Jam1Multiplayer/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
