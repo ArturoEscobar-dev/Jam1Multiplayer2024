@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/BT_Partner.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/_BP_SpotLightSpaces.uasset",
+				"D:/GitHub Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ale-IAliados/Enemigos/Tasks/BTTask_GoLight.uasset",
 				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/IvanGamemode.uasset",
 				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/BP_TestCharacter.uasset",
 				"D:/Software/Unreal/Projects/Jam1Multiplayer2024/Jam1Multiplayer/Content/Ivan/IvanTestingMap.umap",
